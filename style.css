@@ -455,3 +455,9 @@ body  {
 @keyframes fadeOutShink  {
   to { opacity: 0; padding: 0px; height: 0px; }
 }
+
+.flex-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
